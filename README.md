@@ -3,5 +3,5 @@ shiny-avenger
 
 test git
 
-des trucs en plus
-fzpoekpoefzkpzefkpqzv? ???
+d'autres trucs seront rajoutés par la suite :)
+=================================================
